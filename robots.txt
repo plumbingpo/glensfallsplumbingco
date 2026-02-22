@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://glensfallsplumbingco.com/sitemap.xml
